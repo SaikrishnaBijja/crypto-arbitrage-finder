@@ -1,0 +1,186 @@
+{
+  "Binance": {
+    "DOGE/USDT": "$0.09668",
+    "DOGE/BUSD": "$0.09661",
+    "DOGE/BTC": "$0.09676",
+    "DOGE/TRY": "$0.098",
+    "DOGE/EUR": "$0.0968",
+    "DOGE/AUD": "$0.09634",
+    "SHIB/DOGE": "$0.09663",
+    "DOGE/GBP": "$0.09616",
+    "DOGE/BIDR": "$0.09668",
+    "DOGE/BRL": "$0.09646",
+    "DOGE/RUB": "$0.09734"
+  },
+  "Coinbase Exchange": {
+    "DOGE/USD": "$0.09663",
+    "DOGE/EUR": "$0.09669",
+    "DOGE/USDT": "$0.09661",
+    "DOGE/GBP": "$0.09639",
+    "DOGE/BTC": "$0.09675"
+  },
+  "Bithumb": {
+    "DOGE/KRW": "$0.09795",
+    "DOGE/BTC": "$0.09519"
+  },
+  "KuCoin": {
+    "DOGE/USDT": "$0.09658",
+    "DOGE/USDC": "$0.09652",
+    "DOGE/BTC": "$0.09659",
+    "DOGE/KCS": "$0.09604",
+    "SHIB/DOGE": "$0.09662"
+  },
+  "Kraken": {
+    "XDG/USD": "$0.09674",
+    "XDG/EUR": "$0.09675",
+    "XDG/USDT": "$0.09651",
+    "XDG/XBT": "$0.09661"
+  },
+  "Bitfinex": {
+    "DOGE/USD": "$0.09674",
+    "DOGE/USDT": "$0.09656",
+    "DOGE/BTC": "* $0.09658"
+  },
+  "PancakeSwap (V2)": {
+    "DOGE/WBNB": "$0.09642",
+    "USDT/DOGE": "$0.09676",
+    "BBC/DOGE": "$0.09655",
+    "EKING/DOGE": "$0.09244",
+    "USTC/DOGE": "$0.09655",
+    "ETH/DOGE": "$0.09627",
+    "USDC/DOGE": "$0.0965"
+  },
+
+  "Gemini": {
+    "DOGE/USD": "$0.09671",
+    "DOGE/BTC": "$0.09625",
+    "DOGE/ETH": "$0.09686"
+  },
+  "Bittrex": {
+    "DOGE/USD": "$0.09602",
+    "DOGE/BTC": "$0.09644",
+    "DOGE/USDT": "$0.0964",
+    "DOGE/ETH": "$0.0965",
+    "DOGE/EUR": "$0.09354"
+  },
+  "OKX": {
+    "DOGE/USDT": "$0.09678",
+    "DOGE/USDC": "$0.0966",
+    "DOGE/BTC": "$0.09658",
+    "DOGE/ETH": "$0.09654"
+  },
+  "Gate.io": {
+    "DOGE/USDT": "$0.09661",
+    "DOGE/BTC": "$0.09673",
+    "DOGE/USD": "$0.0966",
+    "DOGE/TRY": "$0.09714"
+  },
+  "Bybit": {
+    "DOGE/USDT": "$0.09677",
+    "DOGE/USDC": "$0.09649"
+  },
+  "Huobi": {
+    "DOGE/USDT": "$0.09668",
+    "DOGE/BTC": "$0.09679",
+    "DOGE/ETH": "$0.0964",
+    "DOGE/USDC": "$0.09548"
+  },
+  "Poloniex": {
+    "DOGE/USDT": "$0.09663",
+    "DOGE/USDD": "$0.09643",
+    "DOGE/BTC": "$0.09644",
+    "DOGE/USDC": "$0.09588"
+  },
+  "Coinlist Pro": {
+    "DOGE/USDT": "$0.09721",
+    "DOGE/USD": "$0.0972"
+  },
+  "ProBit Global": {
+    "DOGE/USDT": "$0.09678",
+    "DOGE/BTC": "$0.0967"
+  },
+  "B2BX": {
+    "DOGE/USDT": "$0.09655",
+    "DOGE/BTC": "$0.09641"
+  },
+  "Binance.US": { 
+    "DOGE/USD": "$0.0967", 
+    "DOGE/USDT": "$0.09669" },
+  "Bitget": {
+    "DOGE/USDT": "$0.09676",
+    "DOGE/BTC": "$0.09671",
+    "DOGE/USDC": "$0.09663"
+  },
+  "Binance TR": { 
+    "DOGE/TRY": "$0.09794", 
+    "DOGE/BUSD": "$0.09655" },
+  "Coinone": { 
+    "DOGE/KRW": "$0.09795" },
+  "Crypto.com Exchange": {
+    "DOGE/USDT": "$0.09658",
+    "DOGE/USD": "$0.09676",
+    "DOGE/BTC": "$0.09652"
+  },
+  "LBank": { 
+    "DOGE/USDT": "$0.09671", 
+    "DOGE/USDC": "$0.09657" },
+  "BtcTurk | Pro": {
+    "DOGE/TRY": "$0.09815",
+    "DOGE/USDT": "$0.09666",
+    "DOGE/BTC": "$0.09743"
+  },
+  "MEXC": {
+    "DOGE/USDT": "$0.0967",
+    "DOGE/USDC": "$0.09672",
+    "SHIB/DOGE": "$0.09662"
+  },
+  "Bitkub": { "DOGE/THB": "$0.09733" },
+  "Phemex": { "DOGE/USDT": "$0.09678", "DOGE/USDC": "$0.0959" },
+  "Bitvavo": { "DOGE/EUR": "$0.09667" },
+  "CoinEx": {
+    "DOGE/USDT": "$0.09657",
+    "DOGE/BTC": "$0.09653",
+    "DOGE/USDC": "$0.09662",
+    "DOGE/BCH": "$0.09657"
+  },
+  "Biswap": { "DOGE/WBNB": "$0.09644" },
+  "BKEX": { "DOGE/USDC": "$0.09663" },
+  "AscendEX (BitMax)": { "DOGE/BTC": "$0.09534", "DOGE/USDT": "$0.09641" },
+  "Indodax": { "DOGE/IDR": "$0.09656" },
+  "EXMO": {
+    "DOGE/USD": "$0.1086",
+    "DOGE/EUR": "$0.09718",
+    "DOGE/GBP": "$0.09925",
+    "DOGE/BTC": "$0.09658"
+  },
+  "Tokocrypto": {
+    "DOGE/USDT": "$0.09667",
+    "DOGE/BIDR": "$0.0967",
+    "DOGE/BUSD": "$0.09635",
+    "SHIB/DOGE": "$0.09662",
+    "DOGE/BTC": "$0.09659"
+  },
+  "WazirX": {
+    "DOGE/INR": "$0.1005",
+    "DOGE/USDT": "$0.09796",
+    "DOGE/WRX": "$0.09671"
+  },
+  "Okcoin": { "DOGE/USD": "$0.0962" },
+  "ProBit": { "DOGE/USDT": "$0.09346" },
+  "THORChain (ERC20)": { "DOGE/RUNE": "$0.0974" },
+  "Upbit": { "DOGE/KRW": "$0.09848" },
+  "BitMart": { "DOGE/USDT": "$0.09639", "DOGE/USDC": "$0.09643" },
+  "Paribu": { "DOGE/TRY": "$0.09808" },
+  "Currency.com": { "DOGE/USD": "$0.09649" },
+  "Bitbank": { "DOGE/JPY": "$0.0967" },
+  "Txbit": { "DOGE/BTC": "$0.09641" },
+  "LATOKEN": { "DOGE/USDT": "$0.09669" },
+  "Nomiswap": { "USDT/DOGE": "$0.09666" },
+  "Bitbns": { "DOGE/INR": "$0.1139" },
+  "CoinDCX": { "DOGE/INR": "$0.102" },
+  "Bitci": { "DOGE/TRY": "$0.09784" },
+  "Bitpanda Pro": { "DOGE/EUR": "$0.09595" },
+  "NovaDAX": { "DOGE/BRL": "$0.09678" },
+  "BitoPro": { "DOGE/TWD": "$0.09784" },
+  "Pexpay": { "DOGE/USDT": "$0.09638" }
+}
